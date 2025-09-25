@@ -4,13 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0587-erect-the-fence) |
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0587-erect-the-fence) |
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0587-erect-the-fence) |
+## Hash Table
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
