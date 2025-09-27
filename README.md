@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0319-bulb-switcher) |
 | [0587-erect-the-fence](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0587-erect-the-fence) |
 ## Geometry
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
