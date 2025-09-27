@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0258-add-digits](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0258-add-digits) |
 | [0587-erect-the-fence](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0587-erect-the-fence) |
 ## Geometry
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0149-max-points-on-a-line) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
