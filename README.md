@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0319-bulb-switcher) |
 | [0587-erect-the-fence](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0587-erect-the-fence) |
+| [0837-new-21-game](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0837-new-21-game) |
 ## Geometry
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0837-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0837-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
