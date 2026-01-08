@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0319-bulb-switcher) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0837-new-21-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/deepakkhicher/leetCode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
